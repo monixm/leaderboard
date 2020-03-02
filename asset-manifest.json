@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/monixm/leaderboard/static/js/main.3ed4186c.chunk.js",
+    "main.js.map": "/monixm/leaderboard/static/js/main.3ed4186c.chunk.js.map",
+    "runtime-main.js": "/monixm/leaderboard/static/js/runtime-main.df97d71d.js",
+    "runtime-main.js.map": "/monixm/leaderboard/static/js/runtime-main.df97d71d.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/monixm/leaderboard/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.2f0fead2.chunk.js": "/monixm/leaderboard/static/js/2.2f0fead2.chunk.js",
+    "static/js/2.2f0fead2.chunk.js.map": "/monixm/leaderboard/static/js/2.2f0fead2.chunk.js.map",
+    "index.html": "/monixm/leaderboard/index.html",
+    "precache-manifest.50a46ebb7ba1b64cfbdf5cf0e8885807.js": "/monixm/leaderboard/precache-manifest.50a46ebb7ba1b64cfbdf5cf0e8885807.js",
+    "service-worker.js": "/monixm/leaderboard/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/monixm/leaderboard/static/css/2.47e06e2e.chunk.css.map",
+    "static/js/2.2f0fead2.chunk.js.LICENSE.txt": "/monixm/leaderboard/static/js/2.2f0fead2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df97d71d.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.2f0fead2.chunk.js",
+    "static/js/main.3ed4186c.chunk.js"
+  ]
+}
